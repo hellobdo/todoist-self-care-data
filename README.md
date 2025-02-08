@@ -1,1 +1,1 @@
-# todoist-script
+# todoist-self-care-data
